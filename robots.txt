@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://aditya234456.github.io/SEO-Optimization-practice//sitemap.xml
+Sitemap: https://aditya234456.github.io/SEO-Optimization-practice/sitemap.xml
+
